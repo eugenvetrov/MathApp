@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math App</string>
+    <string name="play">Play</string>
+    <string name="high_scores">High Scores</string>
+    <string name="quit">Quit</string>
+    <string name="equal"> = </string>
+    <string name ="button_decision_choose_default">0</string>
+</resources>
