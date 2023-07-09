@@ -92,7 +92,9 @@
         android:id="@+id/textLevel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="350dp"
-        tools:layout_editor_absoluteY="577dp" />
+        app:layout_constraintBottom_toBottomOf="@+id/textScore"
+        app:layout_constraintEnd_toEndOf="@+id/buttonChoice3"
+        app:layout_constraintStart_toStartOf="@+id/buttonChoice3"
+        app:layout_constraintTop_toTopOf="@+id/textScore" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
